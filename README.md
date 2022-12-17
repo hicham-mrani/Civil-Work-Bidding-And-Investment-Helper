@@ -4,7 +4,7 @@
 
 Email : hicham.mrani@outlook.fr
 
-Vidyard link : https://share.vidyard.com/watch/ZJLRgCCYiSZGCftxNYrBS7
+Vidyard link : https://share.vidyard.com/watch/Cno72Lcwy2PUq2GcEZu7A6
 
 * [App](https://costofmyconstructionproject.herokuapp.com/)
 > In case of 404, click on [video capture](https://drive.google.com/file/d/13Y7McHQZtmEVhrX_G1Ukog_OVayNIo4P/view?usp=sharing)
