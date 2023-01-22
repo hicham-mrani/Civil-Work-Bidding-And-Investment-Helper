@@ -2,10 +2,6 @@
 
 ![python-shield](https://forthebadge.com/images/badges/made-with-python.svg)
 
-Email : hicham.mrani@outlook.fr
-
-Vidyard link : https://share.vidyard.com/watch/Cno72Lcwy2PUq2GcEZu7A6
-
 * [App](https://costofmyconstructionproject.herokuapp.com/)
 > In case of 404, click on [video capture](https://drive.google.com/file/d/13Y7McHQZtmEVhrX_G1Ukog_OVayNIo4P/view?usp=sharing)
 
@@ -177,10 +173,6 @@ Hicham Mrani :
 Levent ISBILIROGLU :
 
 [GitHub](https://github.com/levist7)
-
-## Contact
-
-Please see contact details on presentation file [above](#project).
 
 ---
 Made with ❤️ in Paris
